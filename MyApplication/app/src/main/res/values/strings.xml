@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">My Application</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="findNearest">Find Nearest</string>
+    <string name="showOnMap">Show On Map</string>
+    <string name="backToHome">Back To Home</string>
+    <string name="findByName">Find By Name</string>
+    <string name="findByPostCode">Find By PostCode</string>
+    <string name="enterName">Enter Name</string>
+    <string name="enterPostCode">Enter PostCode</string>
+
+
+
+    <string name="title_activity_nearest_rest">NearestRestActivity</string>
+    <string name="title_activity_post_code_search">PostCodeSearchActivity</string>
+
+
+</resources>
